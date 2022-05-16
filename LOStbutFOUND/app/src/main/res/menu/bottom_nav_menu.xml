@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:id="@+id/lostItemFragment"
+        android:title="@string/lost_items"
+        android:icon="@drawable/lostitems"/>
+
+    <item android:id="@+id/postFragment"
+        android:title="@string/post"
+        android:icon="@drawable/post"/>
+
+</menu>

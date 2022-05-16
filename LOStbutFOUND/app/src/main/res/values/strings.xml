@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">LOStbutFOUND</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="post">Post</string>
+    <string name="lost_items">Lost Items</string>
+    <string name="title">Title</string>
+    <string name="contact">Contact Number</string>
+    <string name="no_lost_items_to_show">No lost items to show</string>
+</resources>
