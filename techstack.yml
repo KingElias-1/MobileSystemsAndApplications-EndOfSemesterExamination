@@ -1,0 +1,81 @@
+repo_name: KingElias-1/MobileSystemsAndApplications-EndOfSemesterExamination
+report_id: 355edebd1f0dbb0e12b6cbd42112e9a0
+version: 0.1
+repo_type: Public
+timestamp: '2024-02-13T13:44:08+00:00'
+requested_by: KingElias-1
+provider: github
+branch: main
+detected_tools_count: 6
+tools:
+- name: Kotlin
+  description: Statically typed Programming Language targeting JVM and JavaScript
+  website_url: https://kotlinlang.org/
+  open_source: true
+  hosted_saas: true
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/3750/pCfEzr6L.png
+  detection_source_url: https://github.com/KingElias-1/MobileSystemsAndApplications-EndOfSemesterExamination
+  detection_source: Repo Metadata
+- name: Android SDK
+  description: An SDK that provides you the API libraries and developer tools necessary
+    to build, test, and debug apps for Android.
+  website_url: http://developer.android.com
+  open_source: false
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Frameworks (Full Stack)
+  image_url: https://img.stackshare.io/service/1010/m8jf0po4imu8t5eemjdd.png
+  detection_source_url: https://github.com/KingElias-1/MobileSystemsAndApplications-EndOfSemesterExamination/blob/main/LOStbutFOUND/app/build.gradle
+  detection_source: LOStbutFOUND/app/build.gradle
+  last_updated_by: Olorunfemi Elias Oyewole
+  last_updated_on: 2022-05-16 14:42:20.000000000 Z
+- name: Git
+  description: Fast, scalable, distributed revision control system
+  website_url: http://git-scm.com/
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Version Control System
+  image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source_url: https://github.com/KingElias-1/MobileSystemsAndApplications-EndOfSemesterExamination
+  detection_source: Repo Metadata
+- name: Gradle
+  description: A powerful build system for the JVM
+  website_url: https://www.gradle.org/
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Java Build Tools
+  image_url: https://img.stackshare.io/service/975/gradlephant-social-black-bg.png
+  detection_source_url: https://github.com/KingElias-1/MobileSystemsAndApplications-EndOfSemesterExamination/blob/main/LOStbutFOUND/app/build.gradle
+  detection_source: LOStbutFOUND/app/build.gradle
+  last_updated_by: Olorunfemi Elias Oyewole
+  last_updated_on: 2022-05-16 14:42:20.000000000 Z
+- name: Android OS
+  description: An open source mobile operating system by Google
+  website_url: https://www.android.com
+  open_source: false
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Operating Systems
+  image_url: https://img.stackshare.io/service/9586/ZvmtaSXW_400x400.jpg
+  detection_source_url: https://github.com/KingElias-1/MobileSystemsAndApplications-EndOfSemesterExamination/blob/main/LOStbutFOUND/app/build.gradle
+  detection_source: LOStbutFOUND/app/build.gradle
+  last_updated_by: Olorunfemi Elias Oyewole
+  last_updated_on: 2022-05-16 14:42:20.000000000 Z
+- name: junit:junit
+  description: JUnit is a unit testing framework for Java
+  version: 4.13.2
+  license: EPL-1.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/KingElias-1/MobileSystemsAndApplications-EndOfSemesterExamination/blob/main/LOStbutFOUND/app/build.gradle
+  detection_source: LOStbutFOUND/app/build.gradle
+  last_updated_by: Olorunfemi Elias Oyewole
+  last_updated_on: 2022-05-16 14:42:20.000000000 Z
